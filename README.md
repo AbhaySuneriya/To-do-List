@@ -52,8 +52,5 @@ Removing a Task: Users click the "×" button on a task to remove it from the lis
 # CONCLUSION
 In conclusion, the To-Do List project has successfully delivered a comprehensive task management solution that meets the needs of users seeking to organize their daily tasks effectively. By leveraging modern web technologies, adhering to functional requirements, and incorporating user feedback, the project has laid the foundation for a valuable tool that enhances productivity and organization in both personal and professional settings. With ongoing development and continuous improvement, the To-Do List application is poised to become an indispensable asset for users seeking to optimize their time and manage their responsibilities efficiently.
 
-
-
-
-
 # OUTPUT	
+<img width="477" alt="Screenshot 2024-04-11 105355" src="https://github.com/AbhaySuneriya/To-do-List/assets/157807569/2b5e3bda-3f9d-4a83-ad4e-11e044303450">
