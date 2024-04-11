@@ -43,7 +43,9 @@ Utilizes event delegation by adding a click event listener to the list container
 Removing Tasks:
 The close button (<span> with '×') added to each task allows users to remove tasks from the list.
 Initially set up in the add function and further facilitated through a click event listener that sets the task's display style to "none", effectively hiding it.
-USAGE
+  saveData (function) use for using a local storage of our device if we refresh the page task will not change and we close the app and come again we see the task as same. 
+  
+# USAGE
 Adding a Task: Users enter a task in the input field and click "Enter" to add it to the list.
 Marking a Task as Completed: Users click on a task to toggle its "completed" status.
 Removing a Task: Users click the "×" button on a task to remove it from the list.
