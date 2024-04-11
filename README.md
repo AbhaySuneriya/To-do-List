@@ -15,14 +15,16 @@ The transition to digital to-do lists has opened up a plethora of possibilities 
 
 
 # CODE EXPLAINATION
-HTML Structure:
+
+####  HTML Structure:
 <div class="container">: Acts as the main container for the to-do list application, wrapping everything in a visually appealing background.
 <div class="todo-app">: Encloses the to-do list's title, input area, and list itself, providing a centered, stylized container for the app components.
 <h2>To-Do List</h2>: The title for the application.
 <I class=” fa-solid fa-clipboard-check”>: contain the image of calender
 Input Row (<div class='row'>): Contains the text input field and the Enter button. Users can type their task here and add it to the list.
 <ul id="List-container">: The unordered list where tasks will be displayed as list items (<li>).
-CSS Styling:
+
+#### CSS Styling:
 The CSS styles define the look and feel of the to-do list, applying a gradient background, styling the input fields, buttons, and tasks. 
 Key styling includes:
 •	Global styles are applied to set margin, padding, and font settings.
@@ -31,7 +33,8 @@ Key styling includes:
 •	The .container and .todo-app are styled to center the content and apply specific background colors and paddings.
 •	Tasks (<li> elements) have distinctive styles, with completed tasks being visually different to provide clear feedback on their status.
 •	Tasks (<li> elements) and other components like the input box and buttons have specific styles for appearance, hover effects, and when a task is marked as completed.
-JavaScript Functionality:
+
+#### JavaScript Functionality:
 The JavaScript adds dynamic behavior to the to-do list, covering task addition, completion marking, and deletion.
 Adding Tasks (add function):
 Checks if the input field (inputactivity) is empty. If not, it proceeds; otherwise, it alerts the user to enter a task.
