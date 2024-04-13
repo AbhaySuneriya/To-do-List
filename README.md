@@ -1,7 +1,7 @@
   # To-do-List
 ## TITLE: CodTech IT Solutions Internship - Task Documentation: “To-DO LIST” Using CSS, HTML, JAVASCRIPT.
 ### INTERN INFORMATION: 
-####: Abhay Suneriya
+#### Abhay Suneriya
 #### ID: ICOD6342 
 # INTRODUCTION
 
